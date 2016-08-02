@@ -1,0 +1,177 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="svn working copy format">
+      <project id="b2b" values="1.7" collectionTime="1467699282822" />
+      <project id="test-web2" values="1.8" collectionTime="1468561835720" />
+      <project id="app" values="1.8" collectionTime="1470099769701" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="test-web" values="ECMAScript 5.1" collectionTime="1470042757374" />
+      <project id="jersey-example" values="ECMAScript 5.1" collectionTime="1470014898079" />
+      <project id="b2b" values="ECMAScript 5.1" collectionTime="1467699282822" />
+      <project id="activemq-unit-tests" values="ECMAScript 5.1" collectionTime="1467704429485" />
+      <project id="test-web2" values="ECMAScript 5.1" collectionTime="1468561835720" />
+      <project id="jersey" values="ECMAScript 5.1" collectionTime="1469782994763" />
+      <project id="jersey-test1" values="ECMAScript 5.1" collectionTime="1469782417451" />
+      <project id="dev" values="ECMAScript 5.1" collectionTime="1470048900847" />
+      <project id="MavenTest" values="ECMAScript 5.1" collectionTime="1458099429241" />
+      <project id="jersey-test" values="ECMAScript 5.1" collectionTime="1470044868653" />
+      <project id="app" values="ECMAScript 5.1" collectionTime="1470099769701" />
+      <project id="TestWeb" values="ECMAScript 5.1" collectionTime="1458113241552" />
+    </group>
+    <group name="module type">
+      <project id="test-web" values="JAVA_MODULE" collectionTime="1470042757284" />
+      <project id="jersey-example" values="JAVA_MODULE" collectionTime="1470014897715" />
+      <project id="b2b" values="JAVA_MODULE" collectionTime="1467699282724" />
+      <project id="activemq-unit-tests" values="JAVA_MODULE" collectionTime="1467704429373" />
+      <project id="test-web2" values="JAVA_MODULE" collectionTime="1468561835528" />
+      <project id="jersey" values="JAVA_MODULE" collectionTime="1469782994680" />
+      <project id="jersey-test1" values="JAVA_MODULE" collectionTime="1469782417384" />
+      <project id="dev" values="JAVA_MODULE" collectionTime="1470048900579" />
+      <project id="MavenTest" values="JAVA_MODULE" collectionTime="1458099429203" />
+      <project id="jersey-test" values="JAVA_MODULE" collectionTime="1470044868583" />
+      <project id="app" values="JAVA_MODULE" collectionTime="1470099769644" />
+      <project id="TestWeb" values="JAVA_MODULE" collectionTime="1458113241080" />
+    </group>
+    <group name="vcs">
+      <project id="b2b" values="svn" collectionTime="1467699282724" />
+      <project id="test-web2" values="svn" collectionTime="1468561835528" />
+      <project id="jersey" values="Git" collectionTime="1469782994679" />
+      <project id="app" values="svn" collectionTime="1470099769644" />
+      <project id="dev" values="Git,svn" collectionTime="1470048900579" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="test-web" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1470042757284" />
+      <project id="b2b" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1467699282724" />
+      <project id="app" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1470099769644" />
+      <project id="test-web2" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468561835528" />
+      <project id="TestWeb" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1458113241081" />
+      <project id="jersey-test" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,MavenRunConfiguration" collectionTime="1470044868583" />
+      <project id="dev" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1470048900579" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="test-web2" values="Application,JUnit" collectionTime="1468561835528" />
+      <project id="dev" values="JUnit,Application" collectionTime="1470048900579" />
+    </group>
+    <group name="file-type">
+      <project id="test-web" values="UNKNOWN,JSP,JAVA,HTML,IDEA_MODULE,XML" collectionTime="1470042757370" />
+      <project id="jersey-example" values="Properties,HTML,CSS,GUI_DESIGNER_FORM,XML,PLAIN_TEXT,JSP,FTL,UNKNOWN,JavaScript,JAVA,Groovy,IDEA_MODULE,Images" collectionTime="1470014898075" />
+      <project id="b2b" values="JSP,JAVA,Eclipse,CLASS,PLAIN_TEXT,SourceMap,ARCHIVE,Native,SQL,FTL,Properties,SWF,HTML,Images,Manifest,IDEA_MODULE,JavaScript,UNKNOWN,CSS,XML" collectionTime="1467699282821" />
+      <project id="activemq-unit-tests" values="UNKNOWN,TypeScript,Eclipse,XML,JAVA,IDEA_MODULE,Properties,PLAIN_TEXT" collectionTime="1467704429484" />
+      <project id="test-web2" values="JSP,Eclipse,PLAIN_TEXT,IDEA_MODULE,TypeScript,JAVA,UNKNOWN,Properties,XML" collectionTime="1468561835640" />
+      <project id="jersey" values="HTML,CSS,UNKNOWN,DTD,FTL,GUI_DESIGNER_FORM,ARCHIVE,Images,JSON,IDEA_MODULE,JSP,Manifest,XML,Groovy,PLAIN_TEXT,SPI,Properties,JavaScript,JAVA" collectionTime="1469782994755" />
+      <project id="jersey-test1" values="JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,XML" collectionTime="1469782417446" />
+      <project id="dev" values="FTL,CSS,ARCHIVE,SWF,PLAIN_TEXT,VTL,SourceMap,UNKNOWN,IDEA_MODULE,XML,Native,JAVA,SQL,JSP,Manifest,Eclipse,Images,HTML,CLASS,JavaScript,Properties,DTD" collectionTime="1470048900655" />
+      <project id="MavenTest" values="JAVA,Eclipse,IDEA_MODULE,XML,CLASS,UNKNOWN,PLAIN_TEXT" collectionTime="1458099429226" />
+      <project id="jersey-test" values="PLAIN_TEXT,UNKNOWN,XML,IDEA_MODULE,JAVA" collectionTime="1470044868650" />
+      <project id="app" values="SQL,PLAIN_TEXT,FTL,JSP,Properties,Eclipse,IDEA_MODULE,Manifest,HTML,JAVA,SWF,UNKNOWN,XML,Native,Images,SourceMap,CSS,CLASS,DTD,JavaScript,ARCHIVE" collectionTime="1470099769693" />
+      <project id="TestWeb" values="XML,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,JSP" collectionTime="1458113241393" />
+    </group>
+    <group name="spring">
+      <project id="jersey-test" values="fileset_configFiles5,fileset_xmlContext" collectionTime="1470044868654" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="test-web" values="Project,Project" collectionTime="1470042757374" />
+      <project id="jersey-example" values="Project,Project" collectionTime="1470014898079" />
+      <project id="b2b" values="Project,Project" collectionTime="1467699282822" />
+      <project id="activemq-unit-tests" values="Project,Project" collectionTime="1467704429485" />
+      <project id="test-web2" values="Project,Project" collectionTime="1468561835720" />
+      <project id="jersey" values="Project,Project" collectionTime="1469782994763" />
+      <project id="jersey-test1" values="Project,Project" collectionTime="1469782417451" />
+      <project id="dev" values="Project,Project" collectionTime="1470048900847" />
+      <project id="MavenTest" values="Project,Project" collectionTime="1458099429241" />
+      <project id="jersey-test" values="Project,Project" collectionTime="1470044868653" />
+      <project id="app" values="Project,Project" collectionTime="1470099769701" />
+      <project id="TestWeb" values="Project,Project" collectionTime="1458113241552" />
+    </group>
+    <group name="Git">
+      <project id="test-web" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1470042757372" />
+      <project id="jersey-example" values="config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1470014898077" />
+      <project id="b2b" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1467699282822" />
+      <project id="activemq-unit-tests" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled" collectionTime="1467704429485" />
+      <project id="test-web2" values="config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1468561835719" />
+      <project id="jersey" values="data.local.branches.count.1,data.remotes.in.project.1,data.remote.branches.count.8+,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1469782994763" />
+      <project id="jersey-test1" values="config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1469782417448" />
+      <project id="dev" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1470048900846" />
+      <project id="MavenTest" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1458099429239" />
+      <project id="jersey-test" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled" collectionTime="1470044868652" />
+      <project id="app" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled" collectionTime="1470099769701" />
+      <project id="TestWeb" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1458113241530" />
+    </group>
+    <group name="libraries">
+      <project id="b2b" values="jsf,spring-mvc,spring" collectionTime="1467699282821" />
+      <project id="test-web2" values="JMS,TransactionJavaee,org.osgi.core,spring" collectionTime="1468561835718" />
+      <project id="jersey" values="BatchApplications,WebSocket,JMS,JAX-RS,CDI,org.osgi.core,ConcurrencyUtilsForJavaee,EJB,JAX-WS,BeanValidation,JsonProcessing,jsf,ConnectorArchitecture,groovy,TransactionJavaee,spring" collectionTime="1469782994762" />
+      <project id="app" values="spring,CDI,BeanValidation,jsf,JsonProcessing,spring-mvc" collectionTime="1470099769699" />
+      <project id="jersey-test" values="CDI,BeanValidation,spring,JsonProcessing" collectionTime="1470044868651" />
+      <project id="dev" values="BeanValidation,CDI,JsonProcessing,spring,jsf,spring-mvc" collectionTime="1470048900791" />
+    </group>
+    <group name="frameworks">
+      <project id="test-web" values="web" collectionTime="1470042757284" />
+      <project id="jersey-example" values="web" collectionTime="1470014897715" />
+      <project id="b2b" values="web" collectionTime="1467699282724" />
+      <project id="test-web2" values="web" collectionTime="1468561835528" />
+      <project id="jersey" values="javaeeApplication,Osmorc,web" collectionTime="1469782994679" />
+      <project id="jersey-test1" values="web" collectionTime="1469782417383" />
+      <project id="TestWeb" values="web" collectionTime="1458113241079" />
+      <project id="app" values="web" collectionTime="1470099769644" />
+      <project id="jersey-test" values="web,Spring" collectionTime="1470044868583" />
+      <project id="dev" values="web" collectionTime="1470048900579" />
+    </group>
+    <group name="language-level">
+      <project id="test-web" values="JDK_1_7" collectionTime="1470042757372" />
+      <project id="jersey-example" values="JDK_1_5,JDK_1_7" collectionTime="1470014898077" />
+      <project id="b2b" values="JDK_1_7" collectionTime="1467699282822" />
+      <project id="activemq-unit-tests" values="JDK_1_7" collectionTime="1467704429484" />
+      <project id="test-web2" values="JDK_1_7,JDK_1_5" collectionTime="1468561835719" />
+      <project id="jersey" values="JDK_1_6,JDK_1_8,JDK_1_7,JDK_1_5" collectionTime="1469782994762" />
+      <project id="jersey-test1" values="JDK_1_7,JDK_1_5" collectionTime="1469782417447" />
+      <project id="dev" values="JDK_1_7,JDK_1_6" collectionTime="1470048900794" />
+      <project id="MavenTest" values="JDK_1_7" collectionTime="1458099429237" />
+      <project id="jersey-test" values="JDK_1_7,JDK_1_5" collectionTime="1470044868652" />
+      <project id="app" values="JDK_1_7" collectionTime="1470099769700" />
+      <project id="TestWeb" values="JDK_1_7" collectionTime="1458113241513" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="162" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="23" />
+      <entry feature="execute.Application.Debug" count="25" />
+      <entry feature="execute.Application.Run" count="25" />
+      <entry feature="execute.JUnit.Debug" count="19" />
+      <entry feature="execute.JUnit.Run" count="4" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="7" />
+      <entry feature="ide.help.ideaInterface.run" count="1" />
+      <entry feature="ide.help.project.creatingModules.resourceWeb" count="2" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.settings.Appearance" count="15" />
+      <entry feature="ide.settings.Code_Completion" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.Font" count="13" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Keymap" count="11" />
+      <entry feature="ide.settings.Live_Templates" count="5" />
+      <entry feature="ide.settings.Maven" count="2" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="12" />
+      <entry feature="ide.settings.Subversion" count="3" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ideaapp.started" count="43" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="589" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
+      <entry feature="terminal.win" count="8" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="15" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="2" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="3" />
+    </counts>
+  </component>
+</application>

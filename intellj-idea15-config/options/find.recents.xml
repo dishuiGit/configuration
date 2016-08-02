@@ -1,0 +1,37 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>hotCompanyList</find>
+      <find>StringUtils</find>
+      <find>ti_organize</find>
+      <find>/detail.shtml</find>
+      <find>mg_l1</find>
+      <find>tb_r</find>
+      <find>ti_l</find>
+      <find>ep_</find>
+      <find>xiaoshou_1</find>
+      <find>出库di</find>
+      <find>areaShowAjax</find>
+      <find>chuku_1</find>
+      <find>mg_l3</find>
+      <find>index1</find>
+      <find>toshop</find>
+      <find>ActiveMQConnectionFactory</find>
+      <find>connectionFactory</find>
+      <find>redeli</find>
+      <find>redeliveryPolicy</find>
+      <find>app.server.host</find>
+      <find>fsGridFS</find>
+      <find>value=&quot;class:target&quot;</find>
+      <find>org.glassfish.jersey.examples.helloworld.</find>
+      <find>request</find>
+      <find>isBlank</find>
+      <find>spring</find>
+      <find>spring.</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\mailiqing_3_new\test-activemq1</dir>
+      <dir>E:\codes\activemq\activemq\activemq-unit-tests</dir>
+    </dirStrings>
+  </component>
+</application>
