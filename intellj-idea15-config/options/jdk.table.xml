@@ -47,5 +47,32 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:/env/android-sdk_r24.1.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/env/android-sdk_r24.1.2-windows/android-sdk-windows/platforms/android-6.0/android.jar!/" />
+            <root type="simple" url="file://D:/env/android-sdk_r24.1.2-windows/android-sdk-windows/platforms/android-6.0/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" sdk="android-23" />
+    </jdk>
   </component>
 </application>

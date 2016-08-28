@@ -2,26 +2,31 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:\eclipse\app" />
+        <option value="E:\codes\work\JfinalUIB\JFinalUIBV2" />
+        <option value="E:\codes\work\SpringWind\SpringWind" />
+        <option value="E:\codes\work\MyApplication2" />
+        <option value="E:\mailiqing_3\MavenTest" />
+        <option value="E:\codes\work\JPushExample(509446)" />
         <option value="E:\IntelliJ-1\app" />
-        <option value="E:\IntelliJ-1\dev" />
-        <option value="E:\IntelliJ-1\jersey-test1" />
-        <option value="E:\IntelliJ-1\test-web" />
         <option value="E:\IntelliJ-1\jersey\jersey-example" />
+        <option value="E:\IntelliJ-1\jersey-test1" />
+        <option value="E:\IntelliJ-1\dev" />
+        <option value="E:\IntelliJ-1\test-web" />
         <option value="E:\mailiqing_3\test-web2" />
         <option value="E:\IntelliJ-1\jersey" />
         <option value="E:\codes\activemq\activemq\activemq-unit-tests" />
         <option value="E:\IntelliJ-1\b2b" />
         <option value="E:\mailiqing_3\TestWeb" />
         <option value="E:\mailiqing_5\b2b" />
-        <option value="E:\mailiqing_3\MavenTest" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\IntelliJ-1\app" />
+        <option value="E:\eclipse\app" />
       </list>
     </option>
-    <option name="lastPath" value="E:\IntelliJ-1\app" />
+    <option name="lastPath" value="E:\eclipse\app" />
     <option name="additionalInfo">
       <map>
         <entry key="E:\IntelliJ-1\app">
@@ -30,7 +35,7 @@
               <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
-              <option name="projectOpenTimestamp" value="1470048900853" />
+              <option name="projectOpenTimestamp" value="1471051247698" />
               <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -52,7 +57,7 @@
               <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
-              <option name="projectOpenTimestamp" value="1470046540257" />
+              <option name="projectOpenTimestamp" value="1470184980815" />
               <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -74,7 +79,7 @@
               <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
-              <option name="projectOpenTimestamp" value="1470043500851" />
+              <option name="projectOpenTimestamp" value="1470281579584" />
               <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -85,7 +90,7 @@
               <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
-              <option name="projectOpenTimestamp" value="1470013559330" />
+              <option name="projectOpenTimestamp" value="1470968048319" />
               <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -112,13 +117,68 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:\codes\work\JPushExample(509446)">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1471507165704" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\codes\work\JfinalUIB\JFinalUIBV2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1472087342978" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\codes\work\MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1472029808963" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\codes\work\SpringWind\SpringWind">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1472086772906" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\eclipse\app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1472225174153" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:\mailiqing_3\MavenTest">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-143.2287" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.4\bin" />
-              <option name="projectOpenTimestamp" value="1458097556139" />
+              <option name="projectOpenTimestamp" value="1471592845332" />
               <option name="buildTimestamp" value="1456156800000" />
             </RecentProjectMetaInfo>
           </value>
@@ -158,6 +218,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="E:/IntelliJ-1" />
+    <option name="lastProjectLocation" value="E:/codes/work/JfinalUIB" />
   </component>
 </application>

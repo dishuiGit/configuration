@@ -3,33 +3,15 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="2" />
     <property name="installed.kotlin.plugin.version" value="1.0.0-release-IJ143-75" />
-    <property name="android-component-compatibility-check" value="1468151067508" />
-    <property name="file.chooser.recent.files" value="E:/IntelliJ-1/app/WebRoot&#10;E:/IntelliJ-1/app/WebRoot/WEB-INF/web.xml&#10;E:/IntelliJ-1/app/WebRoot/WEB-INF/lib&#10;E:/IntelliJ-1/app&#10;E:/IntelliJ-1/app/app&#10;E:/IntelliJ-1/app/WebRoot/WEB-INF&#10;E:/IntelliJ-1/app/.idea/web&#10;E:/IntelliJ-1/app/.idea/artifacts&#10;E:/IntelliJ-1/test-web/out&#10;E:/IntelliJ-1/app/out/artifacts/app_Web_exploded&#10;E:/IntelliJ-1/app/out&#10;E:/IntelliJ-1/app/WebRoot/WEB-INF/classes&#10;E:/IntelliJ-1&#10;E:/IntelliJ-1/dev/WebRoot&#10;E:/IntelliJ-1/dev/WebRoot/test&#10;E:/IntelliJ-1/dev/WebRoot/WEB-INF/lib&#10;E:/IntelliJ-1/jersey&#10;E:/IntelliJ-1/jersey/examples&#10;E:/IntelliJ-1/jersey/examples/helloworld-webapp&#10;E:/IntelliJ-1/jersey-test1&#10;E:/IntelliJ-1/jersey/examples/webapp-example-parent&#10;E:/codes/mybatis-generator-core&#10;D:/wiki/my&#10;D:/Program Files (x86)/Palemoon-Portable-25.5.0.win32/Palemoon-Portable.exe&#10;E:/mailiqing_3_new/koto-t/WebRoot/WEB-INF&#10;E:/mailiqing_3_new/koto-t&#10;E:/IntelliJ-1/koto&#10;E:/codes/work/koto/WEB-INF/lib&#10;E:/IntelliJ-1/test-web&#10;D:/Program Files/TortoiseSVN/bin/svn.exe" />
-    <property name="last.imported.location" value="E:/IntelliJ-1/app" />
-    <property name="create.project.preferred.importer" value="Eclipse" />
-    <property name="eclipse.project.dir" value="E:\IntelliJ-1\app" />
+    <property name="file.chooser.recent.files" value="E:/codes/work/JfinalUIB/JFinalUIBV2&#10;E:/codes/work/SpringWind/SpringWind&#10;D:/env/protoc-2.6.1-win32/protoc.exe&#10;E:/eclipse/app/b2b/WebRoot/WEB-INF/lib&#10;E:/eclipse/app/b2b&#10;E:/codes/work/jpush-api-java-client/libs&#10;E:/codes/work/jpush-api-java-client&#10;D:/Program Files (x86)/JetBrains/themes/1433227255.jar&#10;D:/Program Files (x86)/JetBrains/themes/1433231109.jar&#10;D:/Program Files (x86)/JetBrains/themes/1433176695.jar&#10;D:/env/android-sdk_r24.1.2-windows/android-sdk-windows&#10;E:/codes/work/MyApplication2/libs&#10;E:/codes/work/jpush-android-release-2.1.7/jpush-android-release/example&#10;D:/env/android-sdk_r23.0.2-windows/android-sdk-windows&#10;E:/codes/work/JPushExample(509446)&#10;D:/env/gradle-3.0-all/gradle-3.0&#10;E:/codes/work/JPushExample(509446).zip&#10;D:/apache-tomcat-7.0.42&#10;E:/eclipse/app/b2b/WebRoot/WEB-INF/web.xml&#10;E:/eclipse/app/b2b/WebRoot&#10;E:/codes/my/codes/Generate&#10;E:/codes/generator&#10;E:/codes/mybatis-generator-core&#10;E:/eclipse/app&#10;D:/Program Files/Java/jdk1.7.0_79" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="2" />
-    <property name="selected.color.option.type" value="LINE_NUMBERS_COLOR" />
-    <property name="project.wizard.group" value="JavaEE" />
-    <property name="project.wizard.template" value="Java" />
-    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.42" />
-    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="last.imported.location" value="E:/codes/work/JfinalUIB/JFinalUIBV2" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
-    <property name="KEYMAP" value="close&#10;tab&#10;meth&#10;alt+1&#10;Space" />
-    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
-    <property name="FrameworksFinderRecursivePanel[0]" value="0.15961692" />
-    <property name="FileChooser.ShowPath" value="true" />
-    <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="" />
-    <property name="CommittedChanges.SplitterProportions.0" value="700" />
-    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="KEYMAP" value="complete&#10;comp&#10;compile&#10;package&#10;rep" />
+    <property name="Copy.OpenInEditor" value="true" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="sm_test_statistics_table_columnsWidth0" value="75" />
     <property name="sm_test_statistics_table_columnsOrder0" value="0" />
@@ -37,12 +19,25 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="INSPECTION_FILTER_HISTORY" value="&quot;New in 14&quot;" />
-    <property name="PLUGIN_FILTER" value="vim" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="fileTypeChangedCounter" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="create.test.in.the.same.root" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="PLUGIN_FILTER" value="understand&#10;genymotion&#10;jr&#10;jre&#10;JRebel" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="android-component-compatibility-check" value="1472215157088" />
+    <property name="eclipse.project.dir" value="E:\codes\work\JPushExample(509446)" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="last.used.gradle.home" value="D:/env/gradle-3.0-all/gradle-3.0" />
+    <property name="project.wizard.template" value="Gradle: Android Module" />
+    <property name="ANDROID_TARGET_SELECTION_MODE_FOR_NEW_MODULE" value="Show device chooser dialog" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="LAST_USED_CLASS_PREFIX" value="com.mailiqing" />
+    <property name="selected.color.option.type" value="STATIC_METHOD_ATTRIBUTES" />
+    <property name="fileTypeChangedCounter" value="3" />
   </component>
 </application>

@@ -43,9 +43,23 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_SpringWind\logs\localhost.2016-08-24.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_SpringWind\logs\catalina.2016-08-24.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
-        <option name="leftProportion" value="0.19984448" />
+        <option name="leftProportion" value="0.19969743" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -54,6 +68,14 @@
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="4" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="3" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
         <option name="defaultIndex" value="4" />
         <option name="index" value="2" />
       </TabImpl>
@@ -76,7 +98,7 @@
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="WatchesContent" />
-        <option name="minimizedInGrid" value="false" />
+        <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="right" />
         <option name="tabIndex" value="0" />
         <option name="window" value="0" />
@@ -270,16 +292,58 @@
         <option name="tabIndex" value="3" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_jersey-test\logs\localhost.2016-08-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_jersey-test\logs\catalina.2016-08-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_app_3\logs\localhost.2016-08-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_app_3\logs\catalina.2016-08-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_app_5\logs\catalina.2016-08-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\dishui\.IntelliJIdea15\system\tomcat\Unnamed_app_4\logs\catalina.2016-08-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.19953051" />
-        <option name="rightProportion" value="0.19953051" />
+        <option name="leftProportion" value="0.4160363" />
+        <option name="rightProportion" value="0.4109375" />
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="1" />
         <option name="displayName" value="Server" />
         <option name="index" value="1" />
-        <option name="leftProportion" value="0.19953051" />
+        <option name="leftProportion" value="0.19894099" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -288,7 +352,7 @@
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="7" />
+        <option name="defaultIndex" value="9" />
         <option name="index" value="3" />
       </TabImpl>
       <TabImpl>
@@ -312,6 +376,50 @@
       </ViewImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <General />
+    </runner>
+    <runner id="Android">
+      <ViewImpl>
+        <option name="ID" value="Android Logcat" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="AdbLogsContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="Memory" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="CPU" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="3" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <TabImpl />
+      <TabImpl>
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="2" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="3" />
+        <option name="index" value="3" />
       </TabImpl>
       <General />
     </runner>

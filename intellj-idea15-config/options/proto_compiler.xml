@@ -1,0 +1,5 @@
+<application>
+  <component name="PbCompilerApplicationSettings">
+    <option name="PATH_TO_COMPILER" value="D:\env\protoc-2.6.1-win32\protoc.exe" />
+  </component>
+</application>
